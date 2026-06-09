@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environnements
+.venv/
+venv/
+env/
+
+# Scraper outputs
+output/
+*-md/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+.obsidian
+Thumbs.db
+
+# Claude relative
+.claude
+CLAUDE.md
